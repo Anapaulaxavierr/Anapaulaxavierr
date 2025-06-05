@@ -8,7 +8,9 @@
 - 🔎 I'm looking to collaborate on making data-driven decisions that lead to increased profitability, reduced risk and financially growth
 - 📫 How to reach me anapaulaxavier.silva.apx@gmail.com
 
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
+            <i class="devicon-azuresqldatabase-plain colored"></i>
+          
 
 
 <!---
