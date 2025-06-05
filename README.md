@@ -4,6 +4,7 @@
 - 💻 I'm a Financial Data Analyst
 - 📊 I’m interested learning and developing more about data
 - ✏️ I’m currently learning about project management tools
+- ❓ Ask me about Power BI and SQL
 - 🔎 I'm looking to collaborate on making data-driven decisions that lead to increased profitability, reduced risk and financially growth
 - 📫 How to reach me anapaulaxavier.silva.apx@gmail.com
 
