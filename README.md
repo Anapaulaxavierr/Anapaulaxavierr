@@ -8,10 +8,13 @@
 - 🔎 I'm looking to collaborate on making data-driven decisions that lead to increased profitability, reduced risk and financially growth
 - 📫 How to reach me anapaulaxavier.silva.apx@gmail.com
 
+##
 
-            <i class="devicon-azuresqldatabase-plain colored"></i>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
+   
+    
           
-
+          
 
 <!---
 Anapaulaxavierr/Anapaulaxavierr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
